@@ -1,0 +1,18 @@
+:root {
+  --primary-color: #4716BA;
+  --heading-color: #FFFFFF;
+  --bg-gradient: linear-gradient(
+    90deg,
+    #4716BA 27%,
+    #4e10e0 85%
+  );
+  --font-name: "Questrial", sans-serif;
+
+  /* 
+        #9785f2
+        #b5a9f3
+        #d3cef2
+        #d7337a
+    */
+}
+

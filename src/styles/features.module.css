@@ -1,0 +1,33 @@
+.container3{
+    background-color: white;
+    max-width: 100%;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.feature_wrapper{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 2rem;
+    font-weight: 900;
+    font-family: 'Satoshi', sans-serif;
+}
+
+.section__title{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Satoshi', sans-serif;
+    font-weight: 900;
+}
+
+.kozo_grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+}
+
+

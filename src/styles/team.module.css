@@ -1,0 +1,41 @@
+.container6{
+    margin-top: -2rem;
+    max-width: 100%;
+    height: 70vh;
+    align-items: center;
+    justify-content: center;
+    background-color: #F8FBFF;
+}
+
+.team_content{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+.section_title{
+    margin-right: 0rem;
+}
+
+.Title_section{
+    font-size: 2.5rem;
+    font-weight: 900;
+    color: #1A2237;
+    font-family: 'Satoshi', sans-serif;
+}
+.subsection{
+    margin-top: -2rem;
+    font-size: 0.8rem;
+    color: #5E596C;
+}
+
+.image_grid{
+    display: grid;
+    grid-template-columns: auto auto ;
+    margin: 4rem;
+}
+
+.image{
+    margin: 2rem;
+}
